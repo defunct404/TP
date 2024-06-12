@@ -1,0 +1,57 @@
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GreetingsForm.resources
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.GenerateResource.cache
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfoInputs.cache
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfo.cs
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.CoreCompileInputs.cache
+D:\Учеба\vs projects\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.exe
+D:\Учеба\vs projects\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.deps.json
+D:\Учеба\vs projects\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.runtimeconfig.json
+D:\Учеба\vs projects\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.pdb
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\refint\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.pdb
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.genruntimeconfig.cache
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\ref\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.EventUserControl.resources
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AddEvent.resources
+D:\Учеба\vs projects\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.CreateEventPopup.resources
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AddEvent.resources
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.CreateEventPopup.resources
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.EventUserControl.resources
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GreetingsForm.resources
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.GenerateResource.cache
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfoInputs.cache
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfo.cs
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.CoreCompileInputs.cache
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.dll
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\refint\tp_lab3.dll
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.pdb
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.exe
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.deps.json
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.runtimeconfig.json
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.dll
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.pdb
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.genruntimeconfig.cache
+C:\Users\De2funct\Downloads\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\ref\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.exe
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.deps.json
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.runtimeconfig.json
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\bin\Debug\net8.0-windows\tp_lab3.pdb
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AddEvent.resources
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.CreateEventPopup.resources
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.EventUserControl.resources
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GreetingsForm.resources
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.GenerateResource.cache
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfoInputs.cache
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.AssemblyInfo.cs
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.csproj.CoreCompileInputs.cache
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\refint\tp_lab3.dll
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.pdb
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\tp_lab3.genruntimeconfig.cache
+D:\Учеба\vs projects\tp_lab4\tp_lab4\tp_lab3\tp_lab3\obj\Debug\net8.0-windows\ref\tp_lab3.dll
